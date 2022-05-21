@@ -43,7 +43,7 @@ The images constructed upto 10 components demonstrate a significant data loss in
 
 
 
-<pre>             <img src="1% components.png" width="600" height="600">     </pre>
+<pre>             <img src="component.png" width="800" height="600">     </pre>
 <pre>             <img src="3% components.png" width="800" height="600">     </pre>
 <pre>             <img src="5% components.png" width="800" height="600">     </pre>
 
