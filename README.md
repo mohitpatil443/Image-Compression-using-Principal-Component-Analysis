@@ -43,17 +43,17 @@ The images constructed upto 10 components demonstrate a significant data loss in
 
 
 
-<pre>             <img src="component.png" width="800" height="600">     </pre>
-<pre>             <img src="3% components.png" width="800" height="600">     </pre>
-<pre>             <img src="5% components.png" width="800" height="600">     </pre>
+<pre>             <img src="component_1.png" width="800" height="600">     </pre>
+<pre>             <img src="component_3.png" width="800" height="600">     </pre>
+<pre>             <img src="component_5.png" width="800" height="600">     </pre>
 
 The reconstructed image with 10% components almost looks like the actual image. Almost 85% of the data is preserved in this case.
-<pre>             <img src="10% components.png" width="800" height="600">     </pre>
+<pre>             <img src="component_10.png" width="800" height="600">     </pre>
 
 After a certain limit, there comes a saturation point above which there are no noticeable changes in the reconstructed image.
-<pre>             <img src="20% components.png" width="800" height="600">     </pre>
-<pre>             <img src="30% components.png" width="800" height="600">     </pre>
-<pre>             <img src="40% components.png" width="800" height="600">     </pre>
+<pre>             <img src="component_20.png" width="800" height="600">     </pre>
+<pre>             <img src="component_30.png" width="800" height="600">     </pre>
+<pre>             <img src="component_40.png" width="800" height="600">     </pre>
 
 
 
