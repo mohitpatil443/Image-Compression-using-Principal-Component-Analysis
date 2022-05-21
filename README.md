@@ -33,13 +33,16 @@ You may need to install the following dependencies to run the code : <br>
 
 ## Results
 
-This is the sample image("bird.png" that is read for the purpose of demonstration.
+This is the sample image("bird.png") that is read for the purpose of demonstration.
 <pre>             <img src="sample image.png" width="800" height="600">     </pre>
 
 The cummulative variance plot with respect to the number of principal components for this particular image reveals that almost 85 % of the variance in the image matrix can be represented by 10 components. It is also evident from the results plotted below. 
-- 1 % components
+
 The images constructed upto 10 components demonstrate a significant data loss in the details of the resulting image when compared to the actual image.
-<pre>             <img src="1% components.png" width="800" height="600">     </pre>
+
+
+
+<pre>             <img src="1% components.png" width="600" height="400">     </pre>
 <pre>             <img src="3% components.png" width="800" height="600">     </pre>
 <pre>             <img src="5% components.png" width="800" height="600">     </pre>
 
