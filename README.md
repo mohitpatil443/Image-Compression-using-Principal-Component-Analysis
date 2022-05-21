@@ -22,8 +22,16 @@ There are many algorithms that can be used for image compression namely, Huffman
 - These values are passed on to the function named comress_img which follows the steps below :
   -   The cummulative contribution rate for each eigen value is calculated.
   -   Reconstruct the image using dot product of eigen vector and covariance matrix.
-- The images have been reconstructed using 1,2,3,5,10,20,30 and 40% components.
+- The images have been reconstructed using 1,3,5,10,20,30 and 40% components.
 
 ## How to install dependencies and run the code ?
+You may need to install the following dependencies to run the code : <br>
+`!pip install scipy` <br>
+`!pip install matplotlib` <br>
+`!pip install numpy` <br>
+`!pip install PIL` <br>
+
+## Results
+
 
 
